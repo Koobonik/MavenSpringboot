@@ -1,4 +1,4 @@
-package com.devkoo.demo;
+package com.devkoo.demo.domain;
 
 
 import lombok.Getter;

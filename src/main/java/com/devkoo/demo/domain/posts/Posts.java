@@ -1,6 +1,6 @@
 package com.devkoo.demo.domain.posts;
 
-import com.devkoo.demo.BaseTimeEntity;
+import com.devkoo.demo.domain.BaseTimeEntity;
 import lombok.AccessLevel;
 import lombok.Builder;
 import lombok.Getter;
