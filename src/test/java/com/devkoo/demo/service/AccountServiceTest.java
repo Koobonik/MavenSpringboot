@@ -2,7 +2,7 @@ package com.devkoo.demo.service;
 
 import com.devkoo.demo.domain.account.Account;
 import com.devkoo.demo.domain.account.AccountRepository;
-import com.devkoo.demo.domain.service.AccountService;
+import com.devkoo.demo.service.AccountService;
 import com.devkoo.demo.dto.account.AccountSaveRequestDto;
 import org.junit.After;
 import org.junit.Test;

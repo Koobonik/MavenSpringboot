@@ -1,4 +1,4 @@
-package com.devkoo.demo.domain.service;
+package com.devkoo.demo.service;
 
 import com.devkoo.demo.domain.account.AccountRepository;
 import com.devkoo.demo.dto.account.AccountMainResponseDto;

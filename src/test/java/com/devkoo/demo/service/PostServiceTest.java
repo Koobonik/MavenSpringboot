@@ -2,7 +2,7 @@ package com.devkoo.demo.service;
 
 import com.devkoo.demo.domain.posts.Posts;
 import com.devkoo.demo.domain.posts.PostsRepository;
-import com.devkoo.demo.domain.service.PostsService;
+import com.devkoo.demo.service.PostsService;
 import com.devkoo.demo.dto.posts.PostsSaveRequestDto;
 import org.junit.After;
 import org.junit.Test;

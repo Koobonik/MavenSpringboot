@@ -1,4 +1,4 @@
-package com.devkoo.demo.domain.service;
+package com.devkoo.demo.service;
 
 import com.devkoo.demo.domain.posts.PostsRepository;
 import com.devkoo.demo.dto.posts.PostsMainResponseDto;
