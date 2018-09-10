@@ -20,7 +20,7 @@ public class WebController implements WebMvcConfigurer { // 웹컨트롤러로�
     @RequestMapping(value="/", method = {RequestMethod.GET, RequestMethod.POST})
     public String main(Model model) {
         model.addAttribute("posts", postsService.findAllDesc());
-        return "home";
+        return "main";
     }
 
     @RequestMapping(value="signup", method = {RequestMethod.GET, RequestMethod.POST})
